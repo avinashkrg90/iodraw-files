@@ -43,8 +43,10 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-13" value="Power connection only" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="5vReZsCvzMeAvtyp_lui-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-14" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="5vReZsCvzMeAvtyp_lui-12">
-          <mxGeometry x="-1" relative="1" as="geometry" />
+        <mxCell id="5vReZsCvzMeAvtyp_lui-14" value="TELEM1" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="5vReZsCvzMeAvtyp_lui-12">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-22" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
