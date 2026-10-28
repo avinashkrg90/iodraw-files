@@ -34,10 +34,10 @@
             <mxPoint x="370" y="314.89" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="5vReZsCvzMeAvtyp_lui-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5vReZsCvzMeAvtyp_lui-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="320" as="sourcePoint" />
-            <mxPoint x="460" y="320" as="targetPoint" />
+            <mxPoint x="380" y="380" as="sourcePoint" />
+            <mxPoint x="540" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-13" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="5vReZsCvzMeAvtyp_lui-12">
