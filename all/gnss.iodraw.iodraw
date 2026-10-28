@@ -135,12 +135,12 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-45" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
           <mxGeometry x="290" y="888" width="186.67" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.92;exitY=0.354;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5vReZsCvzMeAvtyp_lui-45">
+        <mxCell id="5vReZsCvzMeAvtyp_lui-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.915;exitY=0.188;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5vReZsCvzMeAvtyp_lui-45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="456" y="832" as="sourcePoint" />
             <mxPoint x="472" y="808" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="472" y="928" />
+              <mxPoint x="472" y="896" />
             </Array>
           </mxGeometry>
         </mxCell>
