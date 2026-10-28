@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="nO6KFJpK-8kxfRmbee-R">
-    <mxGraphModel dx="2257" dy="781" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1815" dy="539" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,7 +127,7 @@
           <mxGeometry x="368.00000000000006" y="752.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-41" value="Laptop&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=13;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="160.00000000000006" y="1072" as="geometry" />
+          <mxGeometry x="362.00000000000006" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-42" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="449" y="687" width="42" height="50" as="geometry" />
@@ -136,7 +136,7 @@
           <mxGeometry x="280.00000000000006" y="831.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-45" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
-          <mxGeometry x="88" y="920" width="186.67" height="112" as="geometry" />
+          <mxGeometry x="290" y="888" width="186.67" height="112" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
