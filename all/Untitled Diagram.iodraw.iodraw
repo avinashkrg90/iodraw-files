@@ -51,6 +51,9 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-21" value="UART1 (GPS2)" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=-90;fontSize=8;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="350.00000000000006" y="503.9999999999999" as="geometry" />
         </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-22" value="UART1 (GPS2)" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=-90;fontSize=8;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="358.00000000000006" y="511.9999999999999" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
