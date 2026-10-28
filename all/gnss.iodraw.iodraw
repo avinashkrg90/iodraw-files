@@ -151,6 +151,9 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-60" value="RTK Fix was established. A blue LED on the rover side was glowing solid when RTK-fix was established.&amp;nbsp;&lt;div&gt;The LED was blinking when in RTK-Float mode.&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=12;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="64.00000000000006" y="1104" as="geometry" />
         </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-61" value="Testing Setup" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=13;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="286.00000000000006" y="63.999999999999886" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
