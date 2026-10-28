@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="nO6KFJpK-8kxfRmbee-R">
-    <mxGraphModel dx="2012" dy="647" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="943" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,18 +76,6 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-27" value="Agam RTK Base&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(# 18)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="727" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5vReZsCvzMeAvtyp_lui-30" target="5vReZsCvzMeAvtyp_lui-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-30" value="Battery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="740" width="70" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-31" value="Agam DPM02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="740" width="95" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-32" value="Agam Autopilot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-33" value="Sik Radio&amp;nbsp;&lt;div&gt;Telemetry&lt;/div&gt;&lt;div&gt;(433 MHz)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="417" y="737" width="106" height="70" as="geometry" />
         </mxCell>
@@ -103,15 +91,6 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-36" value="TELEM1" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="5vReZsCvzMeAvtyp_lui-34">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="-22" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.42;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5vReZsCvzMeAvtyp_lui-31" target="5vReZsCvzMeAvtyp_lui-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="58" y="765" />
-              <mxPoint x="58" y="770" />
-              <mxPoint x="70" y="770" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-38" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.999;exitY=0.555;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5vReZsCvzMeAvtyp_lui-27" target="5vReZsCvzMeAvtyp_lui-33">
