@@ -147,16 +147,13 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-49" value="Only for Power supply (through USB)" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="5vReZsCvzMeAvtyp_lui-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-50" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="5vReZsCvzMeAvtyp_lui-27">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="152" y="916" as="sourcePoint" />
-            <mxPoint x="252" y="816" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-51" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.08;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5vReZsCvzMeAvtyp_lui-45" target="5vReZsCvzMeAvtyp_lui-27">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="152" y="916" as="sourcePoint" />
             <mxPoint x="252" y="816" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="253" y="928" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
