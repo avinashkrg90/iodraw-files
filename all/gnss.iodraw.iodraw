@@ -142,8 +142,8 @@
             <mxPoint x="736" y="664" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-58" value="RX/TX" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=10;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="376.00000000000006" y="463.9999999999999" as="geometry" />
+        <mxCell id="5vReZsCvzMeAvtyp_lui-58" value="These configurations were written to RAM, BBR, and Flash, and can be reverted&amp;nbsp;&lt;div&gt;back to default values, when shipping the module&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=10;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="392.00000000000006" y="631.9999999999999" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
