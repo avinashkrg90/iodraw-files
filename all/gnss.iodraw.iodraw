@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="nO6KFJpK-8kxfRmbee-R">
-    <mxGraphModel dx="1728" dy="943" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="1332" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,7 +146,7 @@
           <mxGeometry x="392.00000000000006" y="631.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-59" value="Data like Lon, Lat, Alt, numSV, Time, etc were recorded:&lt;div&gt;&lt;ul&gt;&lt;li&gt;File rover28102026.csv is this data when survey-in accuracy set to 1.5m&lt;/li&gt;&lt;li&gt;File rover28102026.csv is the data when survey-in accuracy set to 0.90m&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=10;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="470.00000000000006" y="968.9999999999999" as="geometry" />
+          <mxGeometry x="392.00000000000006" y="1120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
