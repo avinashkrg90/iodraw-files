@@ -148,8 +148,8 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-59" value="Data like Lon, Lat, Alt, numSV, Time, etc were recorded:&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;File rover28102026.csv is this data when survey-in accuracy set to 1.5m&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;File rover28102026.csv is the data when survey-in accuracy set to 0.90m&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=12;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="381.00000000000006" y="1008" as="geometry" />
         </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-60" value="These configurations were written to RAM, BBR, and Flash, and&amp;nbsp;&lt;div&gt;can be reverted back to default values, when shipping the module&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=12;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="399.00000000000006" y="487.9999999999999" as="geometry" />
+        <mxCell id="5vReZsCvzMeAvtyp_lui-60" value="RTK Fix was established. A blue LED on the rover side was glowing solid when RTK-fix was established.&amp;nbsp;&lt;div&gt;The LED was blinking when in RTK-Float mode.&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=12;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="64.00000000000006" y="1072" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
