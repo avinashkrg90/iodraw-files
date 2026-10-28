@@ -54,8 +54,8 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-22" value="RX/TX" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=10;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="368.00000000000006" y="455.9999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-23" value="RX/TX" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=10;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="376.00000000000006" y="463.9999999999999" as="geometry" />
+        <mxCell id="5vReZsCvzMeAvtyp_lui-23" value="Power Supply" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=15;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="328.00000000000006" y="269.9999999999999" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
