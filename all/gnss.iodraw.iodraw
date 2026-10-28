@@ -135,18 +135,6 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-45" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
           <mxGeometry x="290" y="888" width="186.67" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.935;entryY=0.354;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="5vReZsCvzMeAvtyp_lui-45">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490.99999999999955" y="807" as="sourcePoint" />
-            <mxPoint x="455.30305" y="931.008" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="490.5" y="904" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-47" value="Only for power supply" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="5vReZsCvzMeAvtyp_lui-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
