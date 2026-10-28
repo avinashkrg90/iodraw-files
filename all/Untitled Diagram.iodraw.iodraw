@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-21" value="UART1 (GPS2)" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=-90;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="350.00000000000006" y="509.9999999999999" as="geometry" />
+          <mxGeometry x="376.00000000000006" y="447.9999999999999" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
