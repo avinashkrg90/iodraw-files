@@ -124,6 +124,9 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-52" value="USB" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=15;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="208.00000000000006" y="879.9999999999999" as="geometry" />
         </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-53" value="RX/TX" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=10;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="176.00000000000006" y="534.9999999999999" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
