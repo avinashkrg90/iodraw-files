@@ -22,6 +22,12 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-7" value="Sik Radio&amp;nbsp;&lt;div&gt;Telemetry&lt;/div&gt;&lt;div&gt;(433 MHz)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="417" y="440" width="106" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="500" as="sourcePoint" />
+            <mxPoint x="520" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
