@@ -79,20 +79,6 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-33" value="Sik Radio&amp;nbsp;&lt;div&gt;Telemetry&lt;/div&gt;&lt;div&gt;(433 MHz)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="417" y="737" width="106" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="1016" as="sourcePoint" />
-            <mxPoint x="683" y="1153" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-35" value="Power connection only" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="5vReZsCvzMeAvtyp_lui-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-36" value="TELEM1" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="5vReZsCvzMeAvtyp_lui-34">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-22" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-38" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.999;exitY=0.555;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5vReZsCvzMeAvtyp_lui-27" target="5vReZsCvzMeAvtyp_lui-33">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="350" y="777" as="sourcePoint" />
@@ -135,7 +121,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-52" value="USB" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=10;" connectable="0" vertex="1" parent="1">
+        <mxCell id="5vReZsCvzMeAvtyp_lui-52" value="USB" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=15;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="208.00000000000006" y="879.9999999999999" as="geometry" />
         </mxCell>
       </root>
