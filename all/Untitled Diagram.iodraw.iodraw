@@ -48,8 +48,8 @@
             <mxPoint x="450" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-20" value="TELEM1" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=-90;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="310.00000000000006" y="499.9999999999999" as="geometry" />
+        <mxCell id="5vReZsCvzMeAvtyp_lui-20" value="UART1 (GPS2)" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=-90;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="350.00000000000006" y="499.9999999999999" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
