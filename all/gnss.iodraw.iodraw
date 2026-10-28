@@ -76,9 +76,6 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-27" value="Agam RTK Base&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(# 18)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="727" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="193" y="856" width="350" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5vReZsCvzMeAvtyp_lui-30" target="5vReZsCvzMeAvtyp_lui-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -130,7 +127,7 @@
           <mxGeometry x="368.00000000000006" y="752.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-41" value="Laptop&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=13;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="337.50000000000006" y="983.9999999999999" as="geometry" />
+          <mxGeometry x="160.00000000000006" y="1072" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-42" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="449" y="687" width="42" height="50" as="geometry" />
@@ -139,7 +136,7 @@
           <mxGeometry x="280.00000000000006" y="831.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-45" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
-          <mxGeometry x="88" y="920" width="50" height="30" as="geometry" />
+          <mxGeometry x="88" y="920" width="186.67" height="112" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
