@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="nO6KFJpK-8kxfRmbee-R">
-    <mxGraphModel dx="134" dy="73" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="482" dy="263" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,6 +69,9 @@
               <mxPoint x="311" y="416" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-26" value="RX/TX" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=10;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="376.00000000000006" y="463.9999999999999" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
