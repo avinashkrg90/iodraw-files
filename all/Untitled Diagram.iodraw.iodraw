@@ -8,7 +8,7 @@
           <mxGeometry x="110" y="380" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="490" width="350" height="120" as="geometry" />
+          <mxGeometry x="350" y="520" width="350" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-3" value="Battery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="540" width="80" height="50" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="460" y="540" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-5" value="Agam Autopilot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
