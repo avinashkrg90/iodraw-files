@@ -132,8 +132,8 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-41" value="Power Supply" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=13;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="-19.999999999999943" y="719.9999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-42" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="464" y="670" width="42" height="50" as="geometry" />
+        <mxCell id="5vReZsCvzMeAvtyp_lui-42" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="449" y="687" width="42" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.189;exitY=-0.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.703;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5vReZsCvzMeAvtyp_lui-33" target="5vReZsCvzMeAvtyp_lui-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
