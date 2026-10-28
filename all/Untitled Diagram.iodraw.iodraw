@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5vReZsCvzMeAvtyp_lui-1" value="Agam RTK Base" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="470" width="130" height="80" as="geometry" />
+          <mxGeometry x="220" y="435" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="270" width="350" height="90" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="410" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-7" value="Sik Radio&amp;nbsp;&lt;div&gt;Telemetry&lt;/div&gt;&lt;div&gt;(433 MHz)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="450" width="106" height="70" as="geometry" />
+          <mxGeometry x="417" y="440" width="106" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
