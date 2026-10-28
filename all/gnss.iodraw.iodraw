@@ -1,0 +1,63 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="nO6KFJpK-8kxfRmbee-R">
+    <mxGraphModel dx="691" dy="377" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5vReZsCvzMeAvtyp_lui-1" value="Agam RTK Base&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(# 38)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5vReZsCvzMeAvtyp_lui-3" target="5vReZsCvzMeAvtyp_lui-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-3" value="Battery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-4" value="Agam DPM02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="290" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-5" value="Agam Autopilot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-7" value="Sik Radio&amp;nbsp;&lt;div&gt;Telemetry&lt;/div&gt;&lt;div&gt;(433 MHz)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="417" y="440" width="106" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.514;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5vReZsCvzMeAvtyp_lui-5" target="5vReZsCvzMeAvtyp_lui-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="380" as="sourcePoint" />
+            <mxPoint x="540" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-13" value="Power connection only" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="5vReZsCvzMeAvtyp_lui-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-14" value="TELEM1" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="5vReZsCvzMeAvtyp_lui-12">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.42;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5vReZsCvzMeAvtyp_lui-4" target="5vReZsCvzMeAvtyp_lui-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-19" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.999;exitY=0.555;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5vReZsCvzMeAvtyp_lui-1" target="5vReZsCvzMeAvtyp_lui-7">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="350" y="480" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-21" value="UART1 (GPS2)" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=-90;fontSize=8;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="350.00000000000006" y="503.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-22" value="RX/TX" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=10;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="368.00000000000006" y="455.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-23" value="Power Supply" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=13;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="320.00000000000006" y="269.9999999999999" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
