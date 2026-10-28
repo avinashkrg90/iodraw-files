@@ -130,8 +130,8 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-54" value="&lt;u style=&quot;font-size: 12px;&quot;&gt;Configuration&lt;/u&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;u style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/u&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;1. CFG-UART1-BAUDRATE -&amp;gt; 57600&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=12;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="72.00000000000011" y="744.9999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-55" value="RX/TX" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=10;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="376.00000000000006" y="463.9999999999999" as="geometry" />
+        <mxCell id="5vReZsCvzMeAvtyp_lui-55" value="Acting as RTK BASE here" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=10;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="224.00000000000006" y="527.9999999999999" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
