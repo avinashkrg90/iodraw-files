@@ -138,6 +138,9 @@
         <mxCell id="5vReZsCvzMeAvtyp_lui-44" value="Power Supply" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=10;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="280.00000000000006" y="831.9999999999999" as="geometry" />
         </mxCell>
+        <mxCell id="5vReZsCvzMeAvtyp_lui-45" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="88" y="920" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
