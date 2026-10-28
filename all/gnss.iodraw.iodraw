@@ -74,38 +74,38 @@
           <mxGeometry x="336.00000000000006" y="249.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-27" value="Agam RTK Base&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(# 18)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="246" y="608" width="130" height="80" as="geometry" />
+          <mxGeometry x="243" y="625" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-33" value="Sik Radio&amp;nbsp;&lt;div&gt;Telemetry&lt;/div&gt;&lt;div&gt;(433 MHz)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="443" y="618" width="106" height="70" as="geometry" />
+          <mxGeometry x="440" y="635" width="106" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-38" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.999;exitY=0.555;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5vReZsCvzMeAvtyp_lui-27" target="5vReZsCvzMeAvtyp_lui-33">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="376" y="658" as="sourcePoint" />
-            <mxPoint x="476" y="558" as="targetPoint" />
+            <mxPoint x="373" y="675" as="sourcePoint" />
+            <mxPoint x="473" y="575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-39" value="UART1 (GPS2)" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=-90;fontSize=9;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="376.00000000000006" y="681.9999999999999" as="geometry" />
+          <mxGeometry x="373.00000000000006" y="698.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-40" value="RX/TX" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=10;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="394.00000000000006" y="633.9999999999999" as="geometry" />
+          <mxGeometry x="391.00000000000006" y="650.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-41" value="Laptop&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=13;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="388.00000000000006" y="921" as="geometry" />
+          <mxGeometry x="385.00000000000006" y="938" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-42" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="475" y="568" width="42" height="50" as="geometry" />
+          <mxGeometry x="472" y="585" width="42" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-45" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
-          <mxGeometry x="316" y="769" width="186.67" height="112" as="geometry" />
+          <mxGeometry x="313" y="786" width="186.67" height="112" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.915;exitY=0.188;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5vReZsCvzMeAvtyp_lui-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="482" y="713" as="sourcePoint" />
-            <mxPoint x="498" y="689" as="targetPoint" />
+            <mxPoint x="479" y="730" as="sourcePoint" />
+            <mxPoint x="495" y="706" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="498" y="777" />
+              <mxPoint x="495" y="794" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -114,27 +114,27 @@
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-51" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.08;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5vReZsCvzMeAvtyp_lui-45" target="5vReZsCvzMeAvtyp_lui-27">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="178" y="797" as="sourcePoint" />
-            <mxPoint x="278" y="697" as="targetPoint" />
+            <mxPoint x="175" y="814" as="sourcePoint" />
+            <mxPoint x="275" y="714" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="279" y="809" />
+              <mxPoint x="276" y="826" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-52" value="USB" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=15;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="234.00000000000006" y="760.9999999999999" as="geometry" />
+          <mxGeometry x="231.00000000000006" y="777.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-53" value="&lt;u style=&quot;font-size: 12px;&quot;&gt;Configuration&lt;/u&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;u style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/u&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;1. CFG-UART1-BAUDRATE -&amp;gt; 57600&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;2. CFG-TMODE : MODE-&amp;gt;1(Survey-in)&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 12px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 12px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 12px;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; SVIN_MIN_DURATION-&amp;gt;60sec&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 12px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 12px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 12px;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; SVIN_ACC_LIMIT -&amp;gt; 2000mm&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;3. CFG-MSGOUT: All RTCM-3x-...belonging to UART1 to 1&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=12;labelBorderColor=#999999;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="88.00000000000006" y="473.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-54" value="&lt;u style=&quot;font-size: 12px;&quot;&gt;Configuration&lt;/u&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;u style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/u&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;1. CFG-UART1-BAUDRATE -&amp;gt; 57600&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=12;labelBorderColor=#999999;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="98.00000000000011" y="583.9999999999999" as="geometry" />
+          <mxGeometry x="95.00000000000011" y="600.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-55" value="Acting as RTK base here" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=13;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="224.00000000000006" y="361.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-56" value="Acting as RTK Rover here" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=13;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="234.00000000000006" y="607.9999999999999" as="geometry" />
+          <mxGeometry x="231.00000000000006" y="624.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-57" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -142,11 +142,11 @@
             <mxPoint x="762" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vReZsCvzMeAvtyp_lui-58" value="These configurations were written to RAM, BBR, and Flash, and can be reverted&amp;nbsp;&lt;div&gt;back to default values, when shipping the module&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=10;" connectable="0" vertex="1" parent="1">
+        <mxCell id="5vReZsCvzMeAvtyp_lui-58" value="These configurations were written to RAM, BBR, and Flash, and can be reverted&amp;nbsp;&lt;div style=&quot;font-size: 12px;&quot;&gt;back to default values, when shipping the module&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=12;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="408.00000000000006" y="465.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="5vReZsCvzMeAvtyp_lui-59" value="Data like Lon, Lat, Alt, numSV, Time, etc were recorded:&lt;div&gt;&lt;ul&gt;&lt;li&gt;File rover28102026.csv is this data when survey-in accuracy set to 1.5m&lt;/li&gt;&lt;li&gt;File rover28102026.csv is the data when survey-in accuracy set to 0.90m&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;rotation=0;fontSize=10;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="418.00000000000006" y="976" as="geometry" />
+          <mxGeometry x="415.00000000000006" y="993" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
