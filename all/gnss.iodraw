@@ -200,6 +200,9 @@
         <mxCell id="N5qRzYUOlFnT5I4Dg1us-4" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;5. Recorded Data Analysis&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="70" y="55" width="420" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="6IJXB2A7l3EDZVZgdw72-1" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;6. Conclusion and Recommendations&lt;/h2&gt;&lt;p&gt;The test successfully demonstrated standalone Base operation, wireless RTCM transmission, and the Rover&#39;s ability to achieve an &lt;strong&gt;RTK Fixed&lt;/strong&gt; solution.&lt;/p&gt;&lt;p&gt;Although both trajectories appeared consistent, the available data was insufficient for a quantitative accuracy comparison.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Recommended next steps:&lt;/strong&gt;&lt;/p&gt;&lt;ul data-spread=&quot;false&quot;&gt;&lt;li&gt;&lt;p&gt;Repeat both tests along the same predefined, clearly marked path.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Record GNSS accuracy estimates and RTK status throughout testing.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Compare the trajectories against known reference coordinates to evaluate positioning error and repeatability.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;These tests will enable a more meaningful comparison of Rover positioning performance under different Survey-In configurations.&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="560" width="830" height="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
