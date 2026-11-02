@@ -7,11 +7,11 @@
         <mxCell id="EH43Kf83GVdlbr7WDXlS-1" value="Agam RTK Base test as standalone device&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="230" y="45" width="370" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EH43Kf83GVdlbr7WDXlS-2" value="2 Agam RTK Base was used, one as RTK base and the other as RTK Rover. The aim of this test are as follow:&lt;div&gt;&lt;ul&gt;&lt;li&gt;To use 2 Agam RTK Bases, one as Base and other as Rover to achieve RTK- Fix as GNSS fix type.&lt;/li&gt;&lt;li&gt;Use the Base RTK as independent device powered by a battery, and transmitting the RTCM correction data through a wireless telemetry.&lt;/li&gt;&lt;li&gt;Using no other software than ublox u-center2 to record the data.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="95" width="790" height="100" as="geometry" />
+        <mxCell id="EH43Kf83GVdlbr7WDXlS-2" value="2 Agam RTK Base was used, one as RTK base and the other as RTK Rover. The aim of this test are as follow:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Aim of the test&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;To use 2 Agam RTK Bases, one as Base and other as Rover to achieve RTK- Fix as GNSS fix type.&lt;/li&gt;&lt;li&gt;Use the Base RTK as independent device powered by a battery, and transmitting the RTCM correction data through a wireless telemetry.&lt;/li&gt;&lt;li&gt;Using no other software than ublox u-center2 to record the data.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="790" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LBVvRoIkureotuKAEjZE-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Test setup&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The test setup and connections are shown&amp;nbsp; as diagram on the next page.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="135" y="190" width="410" height="90" as="geometry" />
+          <mxGeometry x="30" y="260" width="410" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
