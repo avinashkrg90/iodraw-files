@@ -184,7 +184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MZgebUMfizMHrWZNQDs4" name="Page-3">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,8 +203,8 @@
         <mxCell id="6IJXB2A7l3EDZVZgdw72-1" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;6. Conclusion and Recommendations&lt;/h2&gt;&lt;p&gt;The test successfully demonstrated standalone Base operation, wireless RTCM transmission, and the Rover&#39;s ability to achieve an &lt;strong&gt;RTK Fixed&lt;/strong&gt; solution.&lt;/p&gt;&lt;p&gt;Although both trajectories appeared consistent, the available data was insufficient for a quantitative accuracy comparison.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Recommended next steps:&lt;/strong&gt;&lt;/p&gt;&lt;ul data-spread=&quot;false&quot;&gt;&lt;li&gt;&lt;p&gt;Repeat both tests along the same predefined, clearly marked path.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Record GNSS accuracy estimates and RTK status throughout testing.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Compare the trajectories against known reference coordinates to evaluate positioning error and repeatability.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;These tests will enable a more meaningful comparison of Rover positioning performance under different Survey-In configurations.&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="560" width="830" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="6IJXB2A7l3EDZVZgdw72-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="65" y="528" width="50" height="30" as="geometry" />
+        <mxCell id="6IJXB2A7l3EDZVZgdw72-2" value="&lt;h3 data-pm-slice=&quot;1 1 []&quot;&gt;Analysis&lt;/h3&gt;&lt;p&gt;Both trajectories appeared similar, with no obvious deviations or irregularities.&lt;/p&gt;&lt;p&gt;However, without a known reference path, &lt;strong&gt;absolute positioning accuracy and the relative performance of the two configurations cannot be reliably evaluated&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;It is also important to note that the Survey-In accuracy limit represents the acceptance criterion for the Base Station&#39;s estimated position, not the Rover&#39;s actual positioning accuracy.&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="473" width="980" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
