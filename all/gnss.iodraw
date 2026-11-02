@@ -188,8 +188,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N5qRzYUOlFnT5I4Dg1us-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="55" y="58" width="50" height="30" as="geometry" />
+        <mxCell id="N5qRzYUOlFnT5I4Dg1us-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Data recorded&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25" y="58" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
