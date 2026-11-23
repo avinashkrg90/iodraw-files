@@ -57,13 +57,8 @@
             <mxPoint x="158" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PSIyUP0I5wQG2Wr1szq5-6" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PSIyUP0I5wQG2Wr1szq5-5">
+        <mxCell id="PSIyUP0I5wQG2Wr1szq5-6" value="Data recorded in Ucenter2" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PSIyUP0I5wQG2Wr1szq5-5">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PSIyUP0I5wQG2Wr1szq5-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PSIyUP0I5wQG2Wr1szq5-5">
-          <mxGeometry x="0.0254" y="7" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
