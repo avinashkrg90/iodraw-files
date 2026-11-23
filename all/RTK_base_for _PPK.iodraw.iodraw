@@ -181,6 +181,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PSIyUP0I5wQG2Wr1szq5-55" value="RTKCONV AP&lt;div&gt;&lt;br&gt;&lt;div&gt;Options:&amp;nbsp;&lt;/div&gt;&lt;div&gt;RINEX version: 3.00&lt;/div&gt;&lt;div&gt;Satellite systems: All&lt;/div&gt;&lt;div&gt;Frequencies: L1,L2,L5/L3&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="490" width="140" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="PSIyUP0I5wQG2Wr1szq5-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="PSIyUP0I5wQG2Wr1szq5-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="440" as="sourcePoint" />
+            <mxPoint x="570" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PSIyUP0I5wQG2Wr1szq5-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PSIyUP0I5wQG2Wr1szq5-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="655" as="sourcePoint" />
+            <mxPoint x="120" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PSIyUP0I5wQG2Wr1szq5-58" value=".obs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="670" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PSIyUP0I5wQG2Wr1szq5-59" value="&lt;b&gt;File format cannot be recognized&lt;/b&gt; error when converting through RTKCONV" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="490" width="100" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
