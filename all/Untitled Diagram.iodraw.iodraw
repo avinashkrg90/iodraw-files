@@ -69,6 +69,15 @@
         <mxCell id="PSIyUP0I5wQG2Wr1szq5-10" value="Data recorded in Ucenter2" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PSIyUP0I5wQG2Wr1szq5-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PSIyUP0I5wQG2Wr1szq5-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.47;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="664.5" y="300" as="sourcePoint" />
+            <mxPoint x="664.5" y="378" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PSIyUP0I5wQG2Wr1szq5-12" value="Data recorded in Ucenter2" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PSIyUP0I5wQG2Wr1szq5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
