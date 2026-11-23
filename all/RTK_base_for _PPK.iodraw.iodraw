@@ -229,8 +229,8 @@
         <mxCell id="PSIyUP0I5wQG2Wr1szq5-70" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;p&gt;&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;RXM-RAWX&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;font face=&quot;monospace&quot;&gt;is converted to .obs (Observation file) RINEX file&lt;/font&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp; &amp;nbsp;RXM-SFRBX&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;font face=&quot;monospace&quot;&gt;is converted to .nav (Navigation file) RINEX file&lt;/font&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="925" width="470" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="PSIyUP0I5wQG2Wr1szq5-72" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="549" y="690" width="120" height="60" as="geometry" />
+        <mxCell id="PSIyUP0I5wQG2Wr1szq5-72" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="528" y="690" width="221" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
