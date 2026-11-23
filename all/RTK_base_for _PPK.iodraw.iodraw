@@ -165,7 +165,7 @@
             <mxPoint x="108" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PSIyUP0I5wQG2Wr1szq5-38" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PSIyUP0I5wQG2Wr1szq5-37">
+        <mxCell id="PSIyUP0I5wQG2Wr1szq5-38" value="Converted to RINEX using RTKCONV" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PSIyUP0I5wQG2Wr1szq5-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
