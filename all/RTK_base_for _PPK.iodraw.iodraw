@@ -179,7 +179,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PSIyUP0I5wQG2Wr1szq5-52" value="&lt;b&gt;File format cannot be recognized&lt;/b&gt; error when converting through RTKCONV" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="480" width="110" height="100" as="geometry" />
+          <mxGeometry x="190" y="480" width="100" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
