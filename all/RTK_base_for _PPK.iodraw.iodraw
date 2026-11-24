@@ -275,7 +275,7 @@
           <mxGeometry x="-24.999999999999993" y="1235" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uZqQzihwqD7uEiuLLD7T-12" value="&lt;span style=&quot;text-align: left; white-space: nowrap;&quot;&gt;Now, after we have conversion done and we have obs and nav files (observation and Navigation files), we can use RTKPOST to process the data recorded.&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;text-align: left; white-space: nowrap;&quot;&gt;Before proceeding upload data into RTKPOST, open the Options and set it on every required tabs.&lt;div&gt;We can also use already tested config file for settings which can simply be Loaded using Load. We can use f9p_ppk.conf file which comes with the&amp;nbsp;&lt;/div&gt;&lt;div&gt;RTK APs (all RTKLIB version 2.4.3 onwards has it) in the same directory. Note that this config file make position of the base station to RINEX Header. We can&amp;nbsp;&lt;/div&gt;&lt;div&gt;have hard put coordinate values for coordinates of Base station though whihc is more accurate.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="1205" width="470" height="95" as="geometry" />
+          <mxGeometry x="40" y="1205" width="750" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
