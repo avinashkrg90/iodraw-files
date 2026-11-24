@@ -280,8 +280,8 @@
         <mxCell id="uZqQzihwqD7uEiuLLD7T-13" value="In RTKPOST app, you need to upload Rover-obs file, Base-obs file and then nav file belonging to either Base or Rover (Rover&#39;s nav file&amp;nbsp;&lt;div&gt;is generally used). You can also have .sbs file (but not tested), and RTCM (also not tested). You can select the output (solution)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;directory&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;at bottom. Then we can execute the program, and after the execution is done we can see the plots, or view the file.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Note that in the file you can see Q value column, which has integer values starting 1. 1 means RTK fixed is obtained, 2 means float.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;And higher value like 5 means single mode, so no RTK or DGNSS at all.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="29" y="1840" width="750" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="uZqQzihwqD7uEiuLLD7T-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="575" y="1988" width="50" height="30" as="geometry" />
+        <mxCell id="uZqQzihwqD7uEiuLLD7T-14" value="ROVER .obs file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="545" y="1988" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
