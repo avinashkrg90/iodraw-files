@@ -373,7 +373,7 @@
           <mxGeometry x="375.09" y="5490" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-27" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;The configuration enables MSM7 data from GNSS&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;to be logged along with flight log&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310.89" y="4920" width="270" height="40" as="geometry" />
+          <mxGeometry x="293.5" y="4910" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="skBJgnmRKNtt9fFM8vUw-18" target="skBJgnmRKNtt9fFM8vUw-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
