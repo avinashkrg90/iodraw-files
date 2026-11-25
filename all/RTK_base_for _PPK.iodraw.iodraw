@@ -347,7 +347,7 @@
           <mxGeometry x="441.86000000000007" y="5155" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-20" value="xx_0_from_device.dat" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="254.43" y="5310" width="80" height="80" as="geometry" />
+          <mxGeometry x="207.43" y="5320" width="185.57" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
