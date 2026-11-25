@@ -346,8 +346,8 @@
         <mxCell id="skBJgnmRKNtt9fFM8vUw-19" value="&lt;p style=&quot;text-align: left;&quot;&gt;It generates two files:&lt;/p&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;flight_0_from_device.dat&lt;br&gt;flight_0_to_device.dat&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 13px; white-space: nowrap;&quot;&gt;We need&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;b&gt;flight_0_from_device.dat&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-family: Helvetica; white-space: nowrap;&quot;&gt;file for further use&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="441.86000000000007" y="5155" width="180" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="skBJgnmRKNtt9fFM8vUw-20" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="5130" width="80" height="80" as="geometry" />
+        <mxCell id="skBJgnmRKNtt9fFM8vUw-20" value="xx_0_from_device.dat" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="254.43" y="5310" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
