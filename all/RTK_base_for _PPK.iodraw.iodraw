@@ -337,11 +337,11 @@
         <mxCell id="skBJgnmRKNtt9fFM8vUw-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="skBJgnmRKNtt9fFM8vUw-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="5270" as="sourcePoint" />
-            <mxPoint x="413" y="5740" as="targetPoint" />
+            <mxPoint x="413" y="5680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-16" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;This config will start logging GPS dump along with the general&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;flight log (.ulg) found&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px;&quot;&gt;under log directory inside the SD card,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px;&quot;&gt;which can be downloaded with QGC at&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px;&quot;&gt;QGC Analysis-&amp;gt;Onboard Logs.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="473.5" y="5595" width="330" height="70" as="geometry" />
+          <mxGeometry x="419" y="5600" width="330" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
