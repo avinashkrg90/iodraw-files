@@ -391,7 +391,7 @@
         <mxCell id="skBJgnmRKNtt9fFM8vUw-33" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="398.5" y="5600" width="111.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="skBJgnmRKNtt9fFM8vUw-34" value="&lt;div&gt;&lt;b&gt;&amp;nbsp;.obs&lt;/b&gt;&amp;nbsp;and &lt;b&gt;.nav&lt;/b&gt; RINEX files from&amp;nbsp;&lt;/div&gt;&lt;div&gt;Base station&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;The coordinate of the base station&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="skBJgnmRKNtt9fFM8vUw-34" value="&lt;div&gt;&lt;b&gt;&amp;nbsp;.obs&lt;/b&gt;&amp;nbsp;and &lt;b&gt;.nav&lt;/b&gt; RINEX files from&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Base station&lt;/b&gt;&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;The coordinate of the base station&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="72.5" y="5660" width="199.86" height="90" as="geometry" />
         </mxCell>
       </root>
