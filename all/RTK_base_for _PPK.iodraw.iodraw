@@ -337,6 +337,9 @@
         <mxCell id="skBJgnmRKNtt9fFM8vUw-7" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="242" y="5660" width="241" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="skBJgnmRKNtt9fFM8vUw-10" value="&lt;p style=&quot;text-align: left; white-space: nowrap; font-size: 14px;&quot;&gt;This will start logging GPS dump along with the general flight log file (.ulg) found under log directory inside&lt;/p&gt;&lt;p style=&quot;text-align: left; white-space: nowrap; font-size: 14px;&quot;&gt;the SD card.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="343" y="5340" width="230" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
