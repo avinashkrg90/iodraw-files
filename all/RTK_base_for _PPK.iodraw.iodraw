@@ -316,6 +316,9 @@
         <mxCell id="skBJgnmRKNtt9fFM8vUw-0" value="PPK with Agma RTK-Base connected with MegH7&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=5;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="4730" width="360" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="skBJgnmRKNtt9fFM8vUw-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364" y="4980" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
