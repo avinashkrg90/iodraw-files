@@ -317,7 +317,7 @@
           <mxGeometry x="215" y="4710" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-1" value="&lt;h2&gt;&lt;br&gt;&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="63" y="5175" width="20" height="60" as="geometry" />
+          <mxGeometry x="70.32" y="5195" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-2" value="&lt;h2 style=&quot;white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Configure your F9P base to generate RTCM3&lt;/font&gt;&lt;/h2&gt;&lt;p style=&quot;text-align: left; white-space: nowrap;&quot;&gt;Connect your F9P base to u-center 2 through USB.&lt;/p&gt;&lt;h3 style=&quot;text-align: left; white-space: nowrap;&quot;&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Step 1 — Configure base station mode&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;&lt;p style=&quot;text-align: left; white-space: nowrap;&quot;&gt;In &lt;strong&gt;Device Configuration&lt;/strong&gt;, configure:&lt;/p&gt;&lt;div style=&quot;text-align: left; white-space: nowrap;&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;p&gt;Configuration key&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;Value&lt;/p&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;CFG-TMODE-MODE&lt;/code&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;1&lt;/code&gt; (Survey-in)&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;CFG-TMODE-SVIN_MIN_DUR&lt;/code&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;300&lt;/code&gt; seconds&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;CFG-TMODE-SVIN_ACC_LIMIT&lt;/code&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;20000&lt;/code&gt; (2 m in 0.1 mm units)&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;p style=&quot;text-align: left; white-space: nowrap;&quot;&gt;These values are suitable for an initial test. Alternatively, use Fixed mode with accurately known base antenna coordinates.&lt;/p&gt;&lt;p style=&quot;text-align: left; white-space: nowrap;&quot;&gt;The base must complete survey-in or have valid fixed coordinates before normal reference-station operation.&lt;/p&gt;&lt;div style=&quot;text-align: left; white-space: nowrap;&quot;&gt;&lt;div&gt;&lt;/div&gt;device.report&lt;/div&gt;&lt;p style=&quot;text-align: left; white-space: nowrap;&quot;&gt;&lt;/p&gt;&lt;h3 style=&quot;text-align: left; white-space: nowrap;&quot;&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Step 2 — Enable RTCM3 output on USB&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;&lt;p style=&quot;text-align: left; white-space: nowrap;&quot;&gt;Set these configuration keys in u-center 2:&lt;/p&gt;&lt;div style=&quot;text-align: left; white-space: nowrap;&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;p&gt;Configuration key&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;Value&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;Output rate at 1 Hz&lt;/p&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;CFG-MSGOUT-RTCM_3X_TYPE1005_USB&lt;/code&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;5&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Every 5 seconds&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;CFG-MSGOUT-RTCM_3X_TYPE1074_USB&lt;/code&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;1&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Every second&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;CFG-MSGOUT-RTCM_3X_TYPE1084_USB&lt;/code&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;1&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Every second&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;CFG-MSGOUT-RTCM_3X_TYPE1094_USB&lt;/code&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;1&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Every second&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;CFG-MSGOUT-RTCM_3X_TYPE1124_USB&lt;/code&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;1&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Every second&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;CFG-MSGOUT-RTCM_3X_TYPE1230_USB&lt;/code&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;10&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Every 10 seconds&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;p style=&quot;text-align: left; white-space: nowrap;&quot;&gt;Enable only the observation message types for the GNSS constellations in use. These values refer to message intervals in&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;text-align: left; white-space: nowrap;&quot;&gt;navigation&amp;nbsp;&lt;span style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;solutions, so the example assumes a 1 Hz rate.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; white-space: nowrap;&quot;&gt;Also ensure:&lt;/p&gt;&lt;p style=&quot;text-align: left; white-space: nowrap;&quot;&gt;&lt;code&gt;CFG-USBOUTPROT-RTCM3X = 1&lt;/code&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="63" y="6250" width="700" height="900" as="geometry" />
@@ -326,94 +326,94 @@
           <mxGeometry x="72.5" y="5990" width="703" height="230" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PX4 Autopilot up to version 1.17.0&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;GPS_DUMP_COMM &lt;/b&gt;--&amp;gt; 2 (record RTCM data)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;SDLOG_MODE&lt;/b&gt; --&amp;gt; 2 (record from boot until shutdown)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: nowrap;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(can be set in case you are bench testing)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60.00000000000001" y="4760" width="370" height="130" as="geometry" />
+          <mxGeometry x="67.32000000000001" y="4780" width="370" height="130" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="skBJgnmRKNtt9fFM8vUw-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="192" y="4560" as="sourcePoint" />
-            <mxPoint x="244.57" y="4940" as="targetPoint" />
+            <mxPoint x="199.32" y="4580" as="sourcePoint" />
+            <mxPoint x="251.89" y="4960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-16" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;This config will start logging GPS dump&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;along with the general&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;flight log (.ulg) found&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px;&quot;&gt;under log directory inside the SD card,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px;&quot;&gt;which can be downloaded with QGC at&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px;&quot;&gt;QGC Analysis-&amp;gt;Onboard Logs.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440.57" y="4770" width="240" height="90" as="geometry" />
+          <mxGeometry x="447.89" y="4790" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-17" value=".ulg flight log" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="202" y="4940" width="86" height="90" as="geometry" />
+          <mxGeometry x="209.32" y="4960" width="86" height="90" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-18" value="&lt;b&gt;Extraction of RTCM or UBX from PX4 flight log&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;color: rgb(0, 76, 153); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;color: rgb(0, 76, 153); background-color: initial;&quot;&gt;pip install --upgrade pyulog&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;pre style=&quot;&quot; dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font color=&quot;#004c99&quot;&gt;&lt;b&gt;ulog_extract_gps_dump flight.ulg&lt;/b&gt;&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="99.93" y="5065" width="290.13" height="100" as="geometry" />
+          <mxGeometry x="107.25" y="5085" width="290.13" height="100" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-19" value="&lt;p style=&quot;text-align: left;&quot;&gt;It generates two files:&lt;/p&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;flight_0_from_device.dat&lt;br&gt;flight_0_to_device.dat&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 13px; white-space: nowrap;&quot;&gt;We need&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;b&gt;flight_0_from_device.dat&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-family: Helvetica; white-space: nowrap;&quot;&gt;file for further use&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="395.43000000000006" y="5040" width="180" height="150" as="geometry" />
+          <mxGeometry x="402.75000000000006" y="5060" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-20" value="xx_0_from_device.dat&lt;div&gt;file&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="152.21" y="5200" width="185.57" height="90" as="geometry" />
+          <mxGeometry x="159.53" y="5220" width="185.57" height="90" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="skBJgnmRKNtt9fFM8vUw-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="361.78" y="5095" as="sourcePoint" />
-            <mxPoint x="244.77999999999997" y="5355" as="targetPoint" />
+            <mxPoint x="369.09999999999997" y="5115" as="sourcePoint" />
+            <mxPoint x="252.09999999999997" y="5375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-23" value="Rename it to .rtcm3 extension" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="skBJgnmRKNtt9fFM8vUw-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-24" value="data.rtcm3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="189.13" y="5355" width="111" height="70" as="geometry" />
+          <mxGeometry x="196.45" y="5375" width="111" height="70" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="skBJgnmRKNtt9fFM8vUw-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="5640" as="targetPoint" />
+            <mxPoint x="377.32" y="5660" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="245" y="5640" />
+              <mxPoint x="252.32" y="5660" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-25" value="&lt;b&gt;RTKCONV tool&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;.rtcm3&lt;/b&gt; converted to&lt;b&gt; .obs&lt;/b&gt; RINEX file&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="145.07" y="5460" width="199.86" height="90" as="geometry" />
+          <mxGeometry x="152.39" y="5480" width="199.86" height="90" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-26" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Note that, this MSM7 log can only generates .obs&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;file and not .nav file.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;.obs file is enough for PPK solution.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="367.77" y="5470" width="260" height="60" as="geometry" />
+          <mxGeometry x="375.09" y="5490" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-27" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;The configuration enables MSM7 data from GNSS&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;to be logged along with flight log&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="303.57" y="4900" width="270" height="40" as="geometry" />
+          <mxGeometry x="310.89" y="4920" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="skBJgnmRKNtt9fFM8vUw-18" target="skBJgnmRKNtt9fFM8vUw-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400.57" y="5240" as="sourcePoint" />
-            <mxPoint x="450.57" y="5190" as="targetPoint" />
+            <mxPoint x="407.89" y="5260" as="sourcePoint" />
+            <mxPoint x="457.89" y="5210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="skBJgnmRKNtt9fFM8vUw-17" target="skBJgnmRKNtt9fFM8vUw-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400.57" y="5240" as="sourcePoint" />
-            <mxPoint x="450.57" y="5190" as="targetPoint" />
+            <mxPoint x="407.89" y="5260" as="sourcePoint" />
+            <mxPoint x="457.89" y="5210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="skBJgnmRKNtt9fFM8vUw-24" target="skBJgnmRKNtt9fFM8vUw-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400.57" y="5240" as="sourcePoint" />
-            <mxPoint x="450.57" y="5190" as="targetPoint" />
+            <mxPoint x="407.89" y="5260" as="sourcePoint" />
+            <mxPoint x="457.89" y="5210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="skBJgnmRKNtt9fFM8vUw-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="5665" as="targetPoint" />
+            <mxPoint x="547.32" y="5685" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-33" value="&lt;b&gt;RTKPOST&lt;/b&gt;&lt;div&gt;tool&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="371.5" y="5600" width="111.5" height="130" as="geometry" />
+          <mxGeometry x="378.82" y="5620" width="111.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="skBJgnmRKNtt9fFM8vUw-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="5680" as="targetPoint" />
+            <mxPoint x="377.32" y="5700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-34" value="&lt;div&gt;&lt;b&gt;&amp;nbsp;.obs&lt;/b&gt;&amp;nbsp;and &lt;b&gt;.nav&lt;/b&gt; RINEX files from&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Base station&lt;/b&gt;&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;The coordinate of the base station&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="72.5" y="5680" width="197.5" height="90" as="geometry" />
+          <mxGeometry x="79.82" y="5700" width="197.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-35" value="&lt;div&gt;&lt;b&gt;PPK solution&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;.pos &lt;/b&gt;file as a result of&lt;b&gt; PPK&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(cm level precise coordinates)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="542.1099999999999" y="5612.5" width="191" height="105" as="geometry" />
+          <mxGeometry x="549.43" y="5632.5" width="191" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
