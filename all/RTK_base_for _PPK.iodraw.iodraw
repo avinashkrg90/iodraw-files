@@ -442,7 +442,7 @@
         <mxCell id="_7VIP9LqbnxQb51wslxi-2" value="When you enable the TRIG_MODE parameter, then the other parameters related to Trigger appears" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="8510" width="650" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_7VIP9LqbnxQb51wslxi-3" value="When you enable the CAM_CAP_FBACK&amp;nbsp; parameter, then the other parameters related to Trigger appears" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_7VIP9LqbnxQb51wslxi-3" value="When you enable the CAM_CAP_FBACK&amp;nbsp; parameter, then the other parameters related to camera capture will appears" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="62.11" y="8870" width="650" height="60" as="geometry" />
         </mxCell>
       </root>
