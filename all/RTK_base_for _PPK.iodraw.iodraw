@@ -365,10 +365,25 @@
           <mxGeometry x="194.5" y="5540" width="199.86" height="90" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-26" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Note that, this MSM7 log can only generates .obs&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;file and not .nav file.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;.obs file is enough for PPK solution.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="442.49" y="5555" width="260" height="60" as="geometry" />
+          <mxGeometry x="417.2" y="5550" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-27" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;The configuration enables MSM7 data from GNSS&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;to be logged along with flight log&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="353" y="4980" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="skBJgnmRKNtt9fFM8vUw-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="5320" as="sourcePoint" />
+            <mxPoint x="500" y="5270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="skBJgnmRKNtt9fFM8vUw-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="5320" as="sourcePoint" />
+            <mxPoint x="500" y="5270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="5350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
