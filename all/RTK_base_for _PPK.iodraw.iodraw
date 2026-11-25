@@ -396,11 +396,21 @@
             <mxPoint x="450.57" y="5190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="skBJgnmRKNtt9fFM8vUw-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="skBJgnmRKNtt9fFM8vUw-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="5665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-33" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="371.5" y="5600" width="111.5" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="skBJgnmRKNtt9fFM8vUw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="skBJgnmRKNtt9fFM8vUw-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="5680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-34" value="&lt;div&gt;&lt;b&gt;&amp;nbsp;.obs&lt;/b&gt;&amp;nbsp;and &lt;b&gt;.nav&lt;/b&gt; RINEX files from&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Base station&lt;/b&gt;&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;The coordinate of the base station&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="72.5" y="5680" width="199.86" height="90" as="geometry" />
+          <mxGeometry x="72.5" y="5680" width="197.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-35" value="&lt;div&gt;&lt;b&gt;PPK solution&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;.pos &lt;/b&gt;file as a result of&lt;b&gt; PPK&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(cm level precise coordinates)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="542.1099999999999" y="5612.5" width="191" height="105" as="geometry" />
