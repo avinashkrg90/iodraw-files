@@ -358,6 +358,9 @@
         <mxCell id="skBJgnmRKNtt9fFM8vUw-23" value="Rename it to .rtcm3 extension" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="skBJgnmRKNtt9fFM8vUw-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="skBJgnmRKNtt9fFM8vUw-24" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="5130" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
