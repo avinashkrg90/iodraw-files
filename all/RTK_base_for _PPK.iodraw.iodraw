@@ -340,8 +340,8 @@
             <mxPoint x="413" y="5740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="skBJgnmRKNtt9fFM8vUw-12" value="This config will start logging GPS dump along with the general flight log (.ulg) found under log directory inside the SD card" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="skBJgnmRKNtt9fFM8vUw-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="skBJgnmRKNtt9fFM8vUw-16" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;This config will start logging GPS dump along with the general flight log (.ulg) found&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;under log directory inside the SD card, which can be downloaded with QGC at&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;QGC Analysis-&amp;gt;Onboard Logs.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="423.5" y="5600" width="430" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
