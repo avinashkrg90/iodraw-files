@@ -346,7 +346,7 @@
         <mxCell id="skBJgnmRKNtt9fFM8vUw-17" value=".ulg flight log" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="5680" width="86" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="skBJgnmRKNtt9fFM8vUw-18" value="&lt;b&gt;Extraction of RTCM or UBX from PX4 flight log&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;color: rgb(0, 76, 153); text-align: left; background-color: initial;&quot;&gt;pip install --upgrade pyulog&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="skBJgnmRKNtt9fFM8vUw-18" value="&lt;b&gt;Extraction of RTCM or UBX from PX4 flight log&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;color: rgb(0, 76, 153); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;color: rgb(0, 76, 153); background-color: initial;&quot;&gt;pip install --upgrade pyulog&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;pre style=&quot;&quot; dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font color=&quot;#004c99&quot;&gt;ulog_extract_gps_dump flight.ulg&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="279.87" y="5790" width="300.13" height="120" as="geometry" />
         </mxCell>
       </root>
