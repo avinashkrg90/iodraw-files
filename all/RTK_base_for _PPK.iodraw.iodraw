@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2593" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3420" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -423,6 +423,9 @@
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-44" value="PPK Post-Processing workflow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="269" y="7050" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="skBJgnmRKNtt9fFM8vUw-45" value="&lt;h3&gt;&lt;strong&gt;&amp;nbsp;Configure the trigger parameters&lt;/strong&gt;&lt;/h3&gt;&lt;div&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;p&gt;Parameter&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;Example value&lt;/p&gt;&lt;/th&gt;&lt;th&gt;&lt;p&gt;Purpose&lt;/p&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;TRIG_MODE&lt;/code&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;4&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Distance-based survey mode&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;TRIG_INTERFACE&lt;/code&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;1&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;GPIO interface&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;TRIG_POLARITY&lt;/code&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;1&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Active high&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;TRIG_ACT_TIME&lt;/code&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;40&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Trigger pulse width in ms&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;TRIG_DISTANCE&lt;/code&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;10&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Distance between images in metres&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;TRIG_INTERVAL&lt;/code&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;1000&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Interval in ms for time-based modes&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;&lt;code&gt;TRIG_MIN_INTERVA&lt;/code&gt;&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;500&lt;/p&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;Minimum time between photographs in ms&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-125" y="8043" width="450" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
