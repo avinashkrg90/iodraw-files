@@ -340,7 +340,7 @@
             <mxPoint x="413" y="5740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="skBJgnmRKNtt9fFM8vUw-12" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="skBJgnmRKNtt9fFM8vUw-11">
+        <mxCell id="skBJgnmRKNtt9fFM8vUw-12" value="This config will start logging GPS dump along with the general flight log (.ulg) found under log directory inside the SD card" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="skBJgnmRKNtt9fFM8vUw-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
