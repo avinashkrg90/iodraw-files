@@ -349,13 +349,13 @@
         <mxCell id="skBJgnmRKNtt9fFM8vUw-20" value="xx_0_from_device.dat&lt;div&gt;file&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210.43" y="5275" width="185.57" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="skBJgnmRKNtt9fFM8vUw-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="skBJgnmRKNtt9fFM8vUw-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="skBJgnmRKNtt9fFM8vUw-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="5170" as="sourcePoint" />
-            <mxPoint x="520" y="5170" as="targetPoint" />
+            <mxPoint x="303" y="5430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="skBJgnmRKNtt9fFM8vUw-23" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="skBJgnmRKNtt9fFM8vUw-22">
+        <mxCell id="skBJgnmRKNtt9fFM8vUw-23" value="Rename it to .rtcm3 extension&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="skBJgnmRKNtt9fFM8vUw-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
