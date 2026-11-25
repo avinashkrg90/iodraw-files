@@ -361,6 +361,11 @@
         <mxCell id="skBJgnmRKNtt9fFM8vUw-24" value="data.rtcm3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="189.13" y="5355" width="111" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="skBJgnmRKNtt9fFM8vUw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="skBJgnmRKNtt9fFM8vUw-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="5640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-25" value="&lt;b&gt;RTKCONV tool&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;.rtcm3&lt;/b&gt; converted to&lt;b&gt; .obs&lt;/b&gt; RINEX file&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="145.07" y="5460" width="199.86" height="90" as="geometry" />
         </mxCell>
