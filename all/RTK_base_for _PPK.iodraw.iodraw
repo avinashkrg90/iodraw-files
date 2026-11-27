@@ -466,7 +466,7 @@
         <mxCell id="1ez_Ij9bfWL4bWsxR2hU-7" value="EMLID Studio 1.11 tool&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="313.5" y="9380" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1ez_Ij9bfWL4bWsxR2hU-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1ez_Ij9bfWL4bWsxR2hU-8" value="We can build similar tool as EMLID Studio for Post processing. The EMLID Studio by BTW has almost all tools required for basic PPK kinematics or Static, or single mode processing. It also has Convertor tool. We can design our own very similar tool implementing most recent version of RTKLIB producing better results." style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="76.45" y="10410" width="703.55" height="60" as="geometry" />
         </mxCell>
       </root>
