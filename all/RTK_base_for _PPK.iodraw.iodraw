@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1975" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2802" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -481,8 +481,8 @@
         <mxCell id="1ez_Ij9bfWL4bWsxR2hU-12" value="Below are the images showing difference in results obtained from EMLID Studio and RTKLIB&#39;s RTKPOST tool.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="94.67000000000002" y="11750" width="610" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1ez_Ij9bfWL4bWsxR2hU-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="135" y="5988" width="50" height="30" as="geometry" />
+        <mxCell id="1ez_Ij9bfWL4bWsxR2hU-13" value="&lt;p&gt;In a PPK-based aerial mapping system, &lt;strong&gt;the images are captured during the flight, but their precise geographical coordinates are determined after the flight using post-processed GNSS observations.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The camera does not need to capture images at centimetre-accurate predetermined coordinates. Instead, the system needs to know the precise &lt;strong&gt;time at which each image was captured&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;After the flight, the corrected PPK trajectory is used to determine where the camera was located at each exposure timestamp. The resulting coordinates are then written into the image geotags or supplied to photogrammetry software through a separate file.&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-22.05000000000001" y="5980" width="1380" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
