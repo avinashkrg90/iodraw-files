@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2765" dy="1509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5926" dy="3234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -440,7 +440,7 @@
           <mxGeometry x="58.49999999999999" y="8990" width="740" height="330" as="geometry" />
         </mxCell>
         <mxCell id="skBJgnmRKNtt9fFM8vUw-48" value="&lt;b&gt;EMLID Studio app&lt;/b&gt; which is free to use tool can be used for post processing of data for PPK solution. But I&amp;nbsp;&lt;div&gt;have noticed that the processing result given by EMLID studio 1.11 is very different and seems inaccurate&lt;/div&gt;&lt;div&gt;or having limited processing capability, resulting in more float points(Q=2), where as RTKLIB gives almost&amp;nbsp;&lt;/div&gt;&lt;div&gt;no float points with the same RINEX data. Note that the conversion to RINEX was done in RTKLIB only&amp;nbsp;&lt;/div&gt;&lt;div&gt;creating same RINEX files for tests with both tools.&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="59" y="11095" width="690" height="100" as="geometry" />
+          <mxGeometry x="63" y="11105" width="690" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_7VIP9LqbnxQb51wslxi-0" value="For PX4 version 1.18.xx, we have&amp;nbsp;&lt;div&gt;another parameter called GPS_UBX_PPK which can be enabled along with GPS_DUMP_COMM, but I did not&lt;/div&gt;&lt;div&gt;find any difference kepping it disabled. Having it enbaled or disabled gave the same result.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="549" y="4920" width="237.89" height="150" as="geometry" />
@@ -464,7 +464,7 @@
           <mxGeometry x="339.39" y="12715" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1ez_Ij9bfWL4bWsxR2hU-7" value="EMLID Studio 1.11 tool&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="292.5" y="11050" width="210" height="40" as="geometry" />
+          <mxGeometry x="296.5" y="11060" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1ez_Ij9bfWL4bWsxR2hU-8" value="We can build similar tool as EMLID Studio for Post processing. The EMLID Studio by BTW has almost all tools required for basic PPK kinematics or Static, or single mode processing. It also has Convertor tool. We can design our own very similar tool implementing most recent version of RTKLIB producing better results." style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="75.45000000000002" y="12760" width="703.55" height="60" as="geometry" />
