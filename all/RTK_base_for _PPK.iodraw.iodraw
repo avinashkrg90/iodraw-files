@@ -487,8 +487,8 @@
         <mxCell id="1ez_Ij9bfWL4bWsxR2hU-14" value="&lt;p&gt;A survey mission is then planned in Ground control stations like QGC, where the camera information is also configured, which may include&lt;/p&gt;&lt;p&gt;type of camera used, shutter speed, etc which together with take-off height of the drone decides the timing/distances for camera captures.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;When the mission is executed, the camera gets trigger pulses from flight controller at the precalculated distances. Camera can then send&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&#39;camera capture&#39; feedback back to the GNSS and flight controller, at which the GNSS or the flight controller stores the timestamps in a&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;marker file (.mrk). (the file format needs to be re-checked here).&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="37.03" y="6830" width="760" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="1ez_Ij9bfWL4bWsxR2hU-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="215" y="7088" width="50" height="30" as="geometry" />
+        <mxCell id="1ez_Ij9bfWL4bWsxR2hU-15" value="Usually a high amount of overlaps (frontal and side-wise) for the image capture are chosen, so that even after correcting the&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="32.33000000000001" y="7080" width="690" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
